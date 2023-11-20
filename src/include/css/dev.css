@@ -1,0 +1,222 @@
+.listing-page_dropDown_width {
+  min-width: 41px !important;
+}
+
+.form-control.error {
+  border-bottom: solid 1px red;
+}
+
+.form-control2.error {
+  border: solid 1px red;
+}
+
+.Toastify__toast {
+  padding: 32px 53px 28px 68px !important;
+}
+
+.Toastify__toast-container {
+  z-index: 99999999999 !important;
+  width: auto !important;
+  max-width: 600px !important;
+}
+
+.Toastify__toast-body {
+  margin: auto 0;
+  flex: 1 1 auto;
+  padding: 0px !important;
+}
+
+.alert .alert-close-icon,
+.alert .alert-error-fix,
+.alert .alert-warning-fix,
+.alert .alert-success-icon {
+  top: 30px !important;
+}
+
+.tooltip-signin-error {
+  position: absolute;
+  right: 1%;
+  top: 20%;
+}
+
+.eye-icon-box-top {
+  right: 40px !important;
+}
+
+.btn-loading.disabled {
+  background-color: #47ad1d;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.display-hidden {
+  display: none !important;
+}
+
+.display-block {
+  display: block;
+}
+
+.listing-page-popOver {
+  min-width: 470px;
+}
+
+.header-backdrop-fix {
+  z-index: 10000;
+}
+
+.backdrop-scroll-fix {
+  position: fixed;
+}
+
+.react-select-z-index {
+  z-index: 99999999999999 !important;
+}
+
+.react-select-z-index1 {
+  z-index: 99999999999 !important;
+}
+
+.ck.ck-dropdown .ck-dropdown__arrow {
+  z-index: 0 !important;
+}
+
+.filter-margin {
+  padding-left: 30px !important;
+  padding-right: 30px !important;
+}
+
+.text-area-h130 {
+  height: 140px !important;
+}
+
+.error-text {
+  color: red !important;
+}
+
+.logo-width {
+  width: 300px !important;
+}
+
+._cursor {
+  cursor: pointer;
+}
+
+.modal-400w {
+  max-width: 400px !important;
+}
+
+.dropdown-item {
+  font-size: 0.875rem !important;
+}
+
+.species-accor-dropdown {
+  position: absolute;
+  inset: 0px auto auto 0px;
+  margin: 0px;
+  transform: translate3d(0px, 256px, 0px);
+}
+
+.td-img-dev {
+  margin-right: 5px;
+  width: 40px;
+  height: 40px;
+  border-radius: 4px;
+}
+
+.td-img-dev img {
+  width: 100%;
+  height: 100%;
+  border-radius: 4px;
+}
+
+.opacity-class .accordion-button svg path {
+  opacity: 5 !important;
+}
+
+.delete-btn-bg,
+.delete-btn-bg:hover {
+  color: #fff !important;
+  background-color: #ff4242 !important;
+}
+
+.disabled {
+  opacity: 0.6 !important;
+  pointer-events: none !important;
+  cursor: auto !important;
+}
+
+.eye-icon-box {
+  top: 66% !important;
+  right: 40px !important;
+}
+
+.position-relative {
+  position: relative !important;
+}
+
+.eye-icon-box-top {
+  top: 53% !important;
+}
+
+.side-nav {
+  position: sticky !important;
+  height: calc(100vh - 80px) !important;
+  top: 80px !important;
+}
+
+.ck.ck-editor__editable.ck-focused:not(.ck-editor__nested-editable)
+  .border-outline {
+  border: #47ad1d !important;
+}
+
+.region-state-z-index {
+  z-index: 9999999 !important;
+}
+
+.region-country-z-index {
+  z-index: 99999999999999999999 !important;
+}
+
+.ck-rounded-corners .ck.ck-editor__main > .ck-editor__editable,
+.ck.ck-editor__main > .ck-editor__editable.ck-rounded-corners .des-height {
+  height: 200px;
+}
+
+.css-1fdsijx-ValueContainer,
+.css-3w2yfm-ValueContainer {
+  text-transform: capitalize;
+}
+
+.form-control.text-in {
+  background-color: #fff;
+  border: 1px solid #e4e4e4;
+  border-radius: 4px;
+}
+
+.file-input {
+  background: #fff;
+  border: 1px solid #e4e4e4;
+  border-radius: 4px;
+}
+
+.media-img {
+  object-fit: unset;
+}
+
+.supported-file-size {
+  font-weight: 300;
+  font-size: 0.7rem;
+  line-height: 1;
+  margin-top: 10px;
+  color: rgb(0 0 0 / 70%);
+}
+.form-check-input:checked[type="checkbox"]{
+  background-color: 20px solid #e4e4e4;
+}
+.form-check-input:checked {
+  background-color: #47ad1d;
+  border-color: #47AD1D;
+}
